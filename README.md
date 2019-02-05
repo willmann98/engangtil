@@ -7,3 +7,4 @@ dumme dumme
 Hallo alle sammen jeg kan pushe
 er det taco til middag
 Oskar lund kan suge meg
+bæsj
